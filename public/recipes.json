@@ -1,0 +1,2742 @@
+[
+  {
+    "name": "Bone Warrior",
+    "head": "Skeleton Head",
+    "body": "Skeleton Body",
+    "arm1": "Skeleton Arm with Saber",
+    "arm2": "Skeleton Arm with Shield",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Rogue",
+    "head": "Skeleton Head",
+    "body": "Skeleton Body",
+    "arm1": "Skeleton Arm with Saber",
+    "arm2": "Skeleton Arm with Saber",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Bounty Hunter",
+    "head": "Skeleton Head",
+    "body": "Skeleton Body",
+    "arm1": "Skeleton Arm with Saber",
+    "arm2": "Skeleton Arm with Crossbow",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Stormtrooper",
+    "head": "Skeleton Head",
+    "body": "Skeleton Body",
+    "arm1": "Skeleton Arm with Crossbow",
+    "arm2": "Skeleton Arm with Shield",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Shooter",
+    "head": "Skeleton Head",
+    "body": "Skeleton Body",
+    "arm1": "Skeleton Arm with Crossbow",
+    "arm2": "Skeleton Arm with Crossbow",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Mage Bodyguard",
+    "head": "Skeleton Head",
+    "body": "Skeleton Body",
+    "arm1": "Skeleton Arm with Shield",
+    "arm2": "Skeleton Arm with Magic Wand",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Mage-Expat",
+    "head": "Skeleton Head",
+    "body": "Skeleton Body",
+    "arm1": "Skeleton Arm with Magic Wand",
+    "arm2": "Skeleton Arm with Magic Wand",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Priest",
+    "head": "Skeleton Head",
+    "body": "Skeleton Body",
+    "arm1": "Skeleton Arm with Saber",
+    "arm2": "Skeleton Arm with Magic Wand",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Cultist",
+    "head": "Skeleton Head",
+    "body": "Skeleton Body",
+    "arm1": "Skeleton Arm with Magic Wand",
+    "arm2": "Skeleton Arm with Crossbow",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Apprentice",
+    "head": "Skeleton Head",
+    "body": "Skeleton Body",
+    "arm1": "Skeleton Arm with Magic Wand",
+    "arm2": "Skeleton Arm with Book of Ice",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Wanderer",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Saber",
+    "arm2": "Skeleton Arm with Shield",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Cleric",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Armor and Saber",
+    "arm2": "Skeleton Arm with Armor and Shield",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Battle Monk",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Saber",
+    "arm2": "Skeleton Arm with Saber",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Battlemonk",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Armor and Saber",
+    "arm2": "Skeleton Arm with Armor and Saber",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Monsterhunter",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Saber",
+    "arm2": "Skeleton Arm with Crossbow",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Witcher",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Armor and Saber",
+    "arm2": "Skeleton Arm with Armor and Crossbow",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Spy",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Crossbow",
+    "arm2": "Skeleton Arm with Crossbow",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Scout",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Armor and Crossbow",
+    "arm2": "Skeleton Arm with Armor and Crossbow",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Witchhunter",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Crossbow",
+    "arm2": "Skeleton Arm with Magic Wand",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Mage Support",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Magic Wand",
+    "arm2": "Skeleton Arm with Shield",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Sorcerer",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Magic Wand",
+    "arm2": "Skeleton Arm with Magic Wand",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Mage",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Magic Wand",
+    "arm2": "Skeleton Arm with Book of Ice",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Warlock",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Book of Ice",
+    "arm2": "Skeleton Arm with Book of Ice",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Soldier",
+    "head": "Skeleton Head with Helmet",
+    "body": "Skeleton Body with Armor",
+    "arm1": "Skeleton Arm with Armor and Saber",
+    "arm2": "Skeleton Arm with Armor and Shield",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Bandit",
+    "head": "Skeleton Head with Helmet",
+    "body": "Skeleton Body with Armor",
+    "arm1": "Skeleton Arm with Armor and Saber",
+    "arm2": "Skeleton Arm with Armor and Saber",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Assassin",
+    "head": "Skeleton Head with Helmet",
+    "body": "Skeleton Body with Armor",
+    "arm1": "Skeleton Arm with Armor and Saber",
+    "arm2": "Skeleton Arm with Armor and Crossbow",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Guardian",
+    "head": "Skeleton Head with Helmet",
+    "body": "Skeleton Body with Armor",
+    "arm1": "Skeleton Arm with Armor and Crossbow",
+    "arm2": "Skeleton Arm with Armor and Shield",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Ranger",
+    "head": "Skeleton Head with Helmet",
+    "body": "Skeleton Body with Armor",
+    "arm1": "Skeleton Arm with Armor and Crossbow",
+    "arm2": "Skeleton Arm with Armor and Crossbow",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Paladin",
+    "head": "Skeleton Head with Helmet",
+    "body": "Skeleton Body with Armor",
+    "arm1": "Skeleton Arm with Armor and Saber",
+    "arm2": "Skeleton Arm with Magic Wand",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Inquisitor",
+    "head": "Skeleton Head with Helmet",
+    "body": "Skeleton Body with Armor",
+    "arm1": "Skeleton Arm with Armor and Crossbow",
+    "arm2": "Skeleton Arm with Magic Wand",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Mage-renegade",
+    "head": "Skeleton Head with Helmet",
+    "body": "Skeleton Body with Armor",
+    "arm1": "Skeleton Arm with Magic Wand",
+    "arm2": "Skeleton Arm with Magic Wand",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Battlemage",
+    "head": "Skeleton Head with Helmet",
+    "body": "Skeleton Body with Armor",
+    "arm1": "Skeleton Arm with Magic Wand",
+    "arm2": "Skeleton Arm with Book of Ice",
+    "leg1": "Skeleton Leg with Boot",
+    "leg2": "Skeleton Leg with Boot",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Bone Librarian",
+    "head": "Skeleton Head with Magic Hat",
+    "body": "Skeleton Body with Cloak",
+    "arm1": "Skeleton Arm with Book of Ice",
+    "arm2": "Zombie Arm with Book of Lightning",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Bastard Orc Skeleton",
+    "head": "Skeleton Head",
+    "body": "Orc Skeleton Body",
+    "arm1": "Skeleton Arm(any weapon)",
+    "arm2": "Skeleton Arm(any weapon)",
+    "leg1": "Skeleton Leg",
+    "leg2": "Skeleton Leg",
+    "category": "Skeleton Recipes"
+  },
+  {
+    "name": "Dead Warrior",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Zombie Arm with Sword",
+    "arm2": "Zombie Arm with Shield",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Rogue",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Zombie Arm with Sword",
+    "arm2": "Zombie Arm with Sword",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Bounty Hunter",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Zombie Arm with Sword",
+    "arm2": "Zombie Arm with Crossbow",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Stormtrooper",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Zombie Arm with Crossbow",
+    "arm2": "Zombie Arm with Shield",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Deadshot",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Zombie Arm with Crossbow",
+    "arm2": "Zombie Arm with Crossbow",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Mage Bodyguard",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Zombie Arm with Shield",
+    "arm2": "Zombie Arm with Magic Wand",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Mage-expat",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Zombie Arm with Magic Wand",
+    "arm2": "Zombie Arm with Magic Wand",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Priest",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Zombie Arm with Sword",
+    "arm2": "Zombie Arm with Magic Wand",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Cultist",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Zombie Arm with Crossbow",
+    "arm2": "Zombie Arm with Magic Wand",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Apprentice",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Zombie Arm with Magic Wand",
+    "arm2": "Zombie Arm with Book of Lightning",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Wanderer",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Sword",
+    "arm2": "Zombie Arm with Shield",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Cleric",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Armor and Sword",
+    "arm2": "Zombie Arm with Armor and Shield",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Monk",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Sword",
+    "arm2": "Zombie Arm with Sword",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Battle Monk",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Armor and Sword",
+    "arm2": "Zombie Arm with Armor and Sword",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Monster Hunter",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Sword",
+    "arm2": "Zombie Arm with Crossbow",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Witcher",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Armor and Sword",
+    "arm2": "Zombie Arm with Armor and Crossbow",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Spy",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Crossbow",
+    "arm2": "Zombie Arm with Crossbow",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Scout",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Armor and Crossbow",
+    "arm2": "Zombie Arm with Armor and Crossbow",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Witchhunter",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Crossbow",
+    "arm2": "Zombie Arm with Magic Wand",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Mage Support",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Shield",
+    "arm2": "Zombie Arm with Magic Wand",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Sorcerer",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Magic Wand",
+    "arm2": "Zombie Arm with Magic Wand",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Mage",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Magic Wand",
+    "arm2": "Zombie Arm with Book of Lightning",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Warlock",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Book of Lightning",
+    "arm2": "Zombie Arm with Book of Lightning",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Soldier",
+    "head": "Zombie Head with Helmet",
+    "body": "Zombie Body with Armor",
+    "arm1": "Zombie Arm with Armor and Sword",
+    "arm2": "Zombie Arm with Armor and Shield",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Bandit",
+    "head": "Zombie Head with Helmet",
+    "body": "Zombie Body with Armor",
+    "arm1": "Zombie Arm with Armor and Sword",
+    "arm2": "Zombie Arm with Armor and Sword",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Assassin",
+    "head": "Zombie Head with Helmet",
+    "body": "Zombie Body with Armor",
+    "arm1": "Zombie Arm with Armor and Sword",
+    "arm2": "Zombie Arm with Armor and Crossbow",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Guardian",
+    "head": "Zombie Head with Helmet",
+    "body": "Zombie Body with Armor",
+    "arm1": "Zombie Arm with Armor and Crossbow",
+    "arm2": "Zombie Arm with Armor and Shield",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Ranger",
+    "head": "Zombie Head with Helmet",
+    "body": "Zombie Body with Armor",
+    "arm1": "Zombie Arm with Armor and Crossbow",
+    "arm2": "Zombie Arm with Armor and Crossbow",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Paladin",
+    "head": "Zombie Head with Helmet",
+    "body": "Zombie Body with Armor",
+    "arm1": "Zombie Arm with Armor and Sword",
+    "arm2": "Zombie Arm with Magic Wand",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Inquisitor",
+    "head": "Zombie Head with Helmet",
+    "body": "Zombie Body with Armor",
+    "arm1": "Zombie Arm with Armor and Crossbow",
+    "arm2": "Zombie Arm with Magic Wand",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Mage-renegade",
+    "head": "Zombie Head with Helmet",
+    "body": "Zombie Body with Armor",
+    "arm1": "Zombie Arm with Magic Wand",
+    "arm2": "Zombie Arm with Magic Wand",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Battlemage",
+    "head": "Zombie Head with Helmet",
+    "body": "Zombie Body with Armor",
+    "arm1": "Zombie Arm with Magic Wand",
+    "arm2": "Zombie Arm with Book of Lightning",
+    "leg1": "Zombie Leg with Boot",
+    "leg2": "Zombie Leg with Boot",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Librarian",
+    "head": "Zombie Head with Magic Hat",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Skeleton Arm with Book of Ice",
+    "arm2": "Zombie Arm with Book of Lightning",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Zombie Mutant",
+    "head": "Zombie Head (any)",
+    "body": "Zombie Body (any)",
+    "arm1": "Orc Hand (any)",
+    "arm2": "Zombie Arm (any)",
+    "leg1": "Zombie Leg (any)",
+    "leg2": "Zombie Leg (any)",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Dead Loogan",
+    "head": "Zombie Head (any)",
+    "body": "Zombie Body (any)",
+    "arm1": "Orc Hand (any)",
+    "arm2": "Orc Hand (any)",
+    "leg1": "Zombie Leg (any)",
+    "leg2": "Zombie Leg (any)",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Bastard Orc",
+    "head": "Zombie Head (any)",
+    "body": "Orc Body (any)",
+    "arm1": "Zombie Arm (any)",
+    "arm2": "Zombie Arm (any)",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Scavenger",
+    "head": "Zombie Head (any)",
+    "body": "Zombie Body (any)",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Zombie Leg (any)",
+    "leg2": "Zombie Leg (any)",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Ghoul",
+    "head": "Vampire Head",
+    "body": "Zombie Body (any)",
+    "arm1": "Zombie Arm (any)",
+    "arm2": "Zombie Arm (any)",
+    "leg1": "Zombie Leg (any)",
+    "leg2": "Zombie Leg (any)",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Lich",
+    "head": "Vampire Head",
+    "body": "Zombie Body with Cloak",
+    "arm1": "Zombie Arm with Magic Wand",
+    "arm2": "Zombie Arm with Book of Lightning",
+    "leg1": "Zombie Leg (any)",
+    "leg2": "Zombie Leg (any)",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Wendigo",
+    "head": "Zombie Head (any)",
+    "body": "Zombie Body (any)",
+    "arm1": "Werewolf Arm",
+    "arm2": "Werewolf Arm",
+    "leg1": "Zombie Leg (any)",
+    "leg2": "Zombie Leg (any)",
+    "category": "Zombie Recipes"
+  },
+  {
+    "name": "Skeleton Orc Warrior",
+    "head": "Orc Skeleton Head",
+    "body": "Orc Skeleton Body",
+    "arm1": "Orc Skeleton Arm with Mace",
+    "arm2": "Orc Skeleton Arm with Shield",
+    "leg1": "Orc Skeleton Leg",
+    "leg2": "Orc Skeleton Leg",
+    "category": "Orc Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Orc Goon",
+    "head": "Orc Skeleton Head",
+    "body": "Orc Skeleton Body",
+    "arm1": "Mace",
+    "arm2": "Mace",
+    "leg1": "Orc Skeleton Leg",
+    "leg2": "Orc Skeleton Leg",
+    "category": "Orc Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Orc Cutthroat",
+    "head": "Orc Skeleton Head",
+    "body": "Orc Skeleton Body",
+    "arm1": "Mace",
+    "arm2": "Throwing Axe",
+    "leg1": "Orc Skeleton Leg",
+    "leg2": "Orc Skeleton Leg",
+    "category": "Orc Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Orc Ruffian",
+    "head": "Orc Skeleton Head",
+    "body": "Orc Skeleton Body",
+    "arm1": "Throwing Axe",
+    "arm2": "Shield",
+    "leg1": "Orc Skeleton Leg",
+    "leg2": "Orc Skeleton Leg",
+    "category": "Orc Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Orc Axethrower",
+    "head": "Orc Skeleton Head",
+    "body": "Orc Skeleton Body",
+    "arm1": "Throwing Axe",
+    "arm2": "Throwing Axe",
+    "leg1": "Orc Skeleton Leg",
+    "leg2": "Orc Skeleton Leg",
+    "category": "Orc Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Orc Chief",
+    "head": "Skeleton Orc Head with Helmet",
+    "body": "Skeleton Orc Body with Armor",
+    "arm1": "Armor and Mace",
+    "arm2": "Armor and Shield",
+    "leg1": "Skeleton Orc Leg with Armor",
+    "leg2": "Skeleton Orc Leg with Armor",
+    "category": "Orc Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Orc Cannibal",
+    "head": "Skeleton Orc Head with Helmet",
+    "body": "Skeleton Orc Body with Armor",
+    "arm1": "Armor and Mace",
+    "arm2": "Armor and Mace",
+    "leg1": "Skeleton Orc Leg with Armor",
+    "leg2": "Skeleton Orc Leg with Armor",
+    "category": "Orc Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Orc Barbarian",
+    "head": "Skeleton Orc Head with Helmet",
+    "body": "Skeleton Orc Body with Armor",
+    "arm1": "Armor and Mace",
+    "arm2": "Armor and Throwing Axe",
+    "leg1": "Skeleton Orc Leg with Armor",
+    "leg2": "Skeleton Orc Leg with Armor",
+    "category": "Orc Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Orc Raider",
+    "head": "Skeleton Orc Head with Helmet",
+    "body": "Skeleton Orc Body with Armor",
+    "arm1": "Throwing Axe",
+    "arm2": "Shield",
+    "leg1": "Skeleton Orc Leg with Armor",
+    "leg2": "Skeleton Orc Leg with Armor",
+    "category": "Orc Skeleton Recipes"
+  },
+  {
+    "name": "Skeleton Orc Berserk",
+    "head": "Skeleton Orc Head with Helmet",
+    "body": "Skeleton Orc Body with Armor",
+    "arm1": "Armor and Throwing Axe",
+    "arm2": "Armor and Throwing Axe",
+    "leg1": "Skeleton Orc Leg with Armor",
+    "leg2": "Skeleton Orc Leg with Armor",
+    "category": "Orc Skeleton Recipes"
+  },
+  {
+    "name": "Orc Warrior",
+    "head": "Orc Head",
+    "body": "Orc Body",
+    "arm1": "Orc Arm with Mace",
+    "arm2": "Orc Arm with Shield",
+    "leg1": "Orc Leg",
+    "leg2": "Orc Leg",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Goon",
+    "head": "Orc Head",
+    "body": "Orc Body",
+    "arm1": "Mace",
+    "arm2": "Mace",
+    "leg1": "Orc Leg",
+    "leg2": "Orc Leg",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Cutthroat",
+    "head": "Orc Head",
+    "body": "Orc Body",
+    "arm1": "Mace",
+    "arm2": "Throwing Axe",
+    "leg1": "Orc Leg",
+    "leg2": "Orc Leg",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Ruffian",
+    "head": "Orc Head",
+    "body": "Orc Body",
+    "arm1": "Throwing Axe",
+    "arm2": "Shield",
+    "leg1": "Orc Leg",
+    "leg2": "Orc Leg",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Axethrower",
+    "head": "Orc Head",
+    "body": "Orc Body",
+    "arm1": "Throwing Axe",
+    "arm2": "Throwing Axe",
+    "leg1": "Orc Leg",
+    "leg2": "Orc Leg",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Chief",
+    "head": "Orc Head with Helmet",
+    "body": "Orc Body with Armor",
+    "arm1": "Armor and Mace",
+    "arm2": "Armor and Shield",
+    "leg1": "Orc Leg with Armor",
+    "leg2": "Orc Leg with Armor",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Cannibal",
+    "head": "Orc Head with Helmet",
+    "body": "Orc Body with Armor",
+    "arm1": "Armor and Mace",
+    "arm2": "Armor and Mace",
+    "leg1": "Orc Leg with Armor",
+    "leg2": "Orc Leg with Armor",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Barbarian",
+    "head": "Orc Head with Helmet",
+    "body": "Orc Body with Armor",
+    "arm1": "Armor and Mace",
+    "arm2": "Armor and Throwing Axe",
+    "leg1": "Orc Leg with Armor",
+    "leg2": "Orc Leg with Armor",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Raider",
+    "head": "Orc Head with Helmet",
+    "body": "Orc Body with Armor",
+    "arm1": "Armor and Throwing Axe",
+    "arm2": "Armor and Shield",
+    "leg1": "Orc Leg with Armor",
+    "leg2": "Orc Leg with Armor",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Berserk",
+    "head": "Orc Head with Helmet",
+    "body": "Orc Body with Armor",
+    "arm1": "Armor and Throwing Axe",
+    "arm2": "Armor and Throwing Axe",
+    "leg1": "Orc Leg with Armor",
+    "leg2": "Orc Leg with Armor",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Scavenger",
+    "head": "Orc Head (any)",
+    "body": "Orc Body (any)",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Orc Leg (any)",
+    "leg2": "Orc Leg (any)",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Bloodsucker",
+    "head": "Vampire Head",
+    "body": "Orc Body (any)",
+    "arm1": "Orc Arm (any)",
+    "arm2": "Orc Arm (any)",
+    "leg1": "Orc Leg (any)",
+    "leg2": "Orc Leg (any)",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "One-eyed Orc",
+    "head": "Cyclop Head",
+    "body": "Orc Body (any)",
+    "arm1": "Orc Arm (any)",
+    "arm2": "Orc Arm (any)",
+    "leg1": "Orc Leg (any)",
+    "leg2": "Orc Leg (any)",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Orc Mutant",
+    "head": "Orc Head",
+    "body": "Orc Body",
+    "arm1": "Lizard Man Arm (any)",
+    "arm2": "Lizard Man Arm (any)",
+    "leg1": "Lizard Man Leg (any)",
+    "leg2": "Lizard Man Leg (any)",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Troll",
+    "head": "Orc Head (any)",
+    "body": "Orc Body (any)",
+    "arm1": "Cyclop Arm (any)",
+    "arm2": "Cyclop Arm (any)",
+    "leg1": "Orc Leg (any)",
+    "leg2": "Orc Leg (any)",
+    "category": "Orc Recipes"
+  },
+  {
+    "name": "Harpy",
+    "head": "Harpy Head",
+    "body": "Harpy Body",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Harpy Leg",
+    "leg2": "Harpy Leg",
+    "category": "Harpy Recipes"
+  },
+  {
+    "name": "Harpy Warrior",
+    "head": "Harpy Head with Armor",
+    "body": "Harpy Body with Armor",
+    "arm1": "Harpy Wing with Steel Feathers",
+    "arm2": "Harpy Wing with Steel Feathers",
+    "leg1": "Harpy Leg with Steel Claws",
+    "leg2": "Harpy Leg with Steel Claws",
+    "category": "Harpy Recipes"
+  },
+  {
+    "name": "Gargoyle",
+    "head": "Vampire Head",
+    "body": "Harpy Body",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Harpy Leg",
+    "leg2": "Harpy Leg",
+    "category": "Harpy Recipes"
+  },
+  {
+    "name": "Hag",
+    "head": "Cyclop Head",
+    "body": "Harpy Body",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Harpy Leg",
+    "leg2": "Harpy Leg",
+    "category": "Harpy Recipes"
+  },
+  {
+    "name": "Banshee",
+    "head": "Harpy Head",
+    "body": "Vampire Body",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Vampire Leg",
+    "leg2": "Vampire Leg",
+    "category": "Harpy Recipes"
+  },
+  {
+    "name": "Dragon Harpy",
+    "head": "Harpy Head (any)",
+    "body": "Harpy Body (any)",
+    "arm1": "Draconid Wing",
+    "arm2": "Draconid Wing",
+    "leg1": "Harpy Leg (any)",
+    "leg2": "Harpy Leg (any)",
+    "category": "Harpy Recipes"
+  },
+  {
+    "name": "Vampire",
+    "head": "Vampire Head",
+    "body": "Vampire Body",
+    "arm1": "Vampire Arm",
+    "arm2": "Vampire Arm",
+    "leg1": "Vampire Leg",
+    "leg2": "Vampire Leg",
+    "category": "Vampire Recipes"
+  },
+  {
+    "name": "Elder Vampire",
+    "head": "Vampire Head",
+    "body": "Vampire Body",
+    "arm1": "Draconid Wing",
+    "arm2": "Draconid Wing",
+    "leg1": "Vampire Leg",
+    "leg2": "Vampire Leg",
+    "category": "Vampire Recipes"
+  },
+  {
+    "name": "Nosferatu",
+    "head": "Vampire Head",
+    "body": "Vampire Body",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Vampire Leg",
+    "leg2": "Vampire Leg",
+    "category": "Vampire Recipes"
+  },
+  {
+    "name": "Brooks",
+    "head": "Harpy Head",
+    "body": "Harpy Body",
+    "arm1": "Vampire Arm",
+    "arm2": "Vampire Arm",
+    "leg1": "Vampire Leg",
+    "leg2": "Vampire Leg",
+    "category": "Vampire Recipes"
+  },
+  {
+    "name": "Strigoi",
+    "head": "Vampire Head",
+    "body": "Zombie Body(any)",
+    "arm1": "Vampire Arm",
+    "arm2": "Vampire Arm",
+    "leg1": "mbie Leg(any)",
+    "leg2": "mbie Leg(any)",
+    "category": "Vampire Recipes"
+  },
+  {
+    "name": "Lizard Warrior",
+    "head": "Lizard Man Head",
+    "body": "Lizard Man Body",
+    "arm1": "Lizard Man Arm with Spear",
+    "arm2": "Lizard Man Arm with Disc",
+    "leg1": "Lizard Man Leg",
+    "leg2": "Lizard Man Leg",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Lizard Hunter",
+    "head": "Lizard Man Head",
+    "body": "Lizard Man Body",
+    "arm1": "Spear",
+    "arm2": "Spear",
+    "leg1": "Lizard Man Leg",
+    "leg2": "Lizard Man Leg",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Lizard Rebel",
+    "head": "Lizard Man Head",
+    "body": "Lizard Man Body",
+    "arm1": "Spear",
+    "arm2": "Bomb",
+    "leg1": "Lizard Man Leg",
+    "leg2": "Lizard Man Leg",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Olympian Lizard",
+    "head": "Lizard Man Head",
+    "body": "Lizard Man Body",
+    "arm1": "Disc",
+    "arm2": "Disc",
+    "leg1": "Lizard Man Leg",
+    "leg2": "Lizard Man Leg",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Lizard Security Guard",
+    "head": "Lizard Man Head",
+    "body": "Lizard Man Body",
+    "arm1": "Disc",
+    "arm2": "Bomb",
+    "leg1": "Lizard Man Leg",
+    "leg2": "Lizard Man Leg",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Lizard Grenadier",
+    "head": "Lizard Man Head",
+    "body": "Lizard Man Body",
+    "arm1": "Bomb",
+    "arm2": "Bomb",
+    "leg1": "Lizard Man Leg",
+    "leg2": "Lizard Man Leg",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Lizard Guardian",
+    "head": "Lizard Man Head with Helmet",
+    "body": "Lizard Man Body with Armor",
+    "arm1": "Armor and Spear",
+    "arm2": "Armor and Disc",
+    "leg1": "Lizard Man Leg with Boot",
+    "leg2": "Lizard Man Leg with Boot",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Lizard Praetorian",
+    "head": "Lizard Man Head with Helmet",
+    "body": "Lizard Man Body with Armor",
+    "arm1": "Armor and Bomb",
+    "arm2": "Armor and Disc",
+    "leg1": "Lizard Man Leg with Boot",
+    "leg2": "Lizard Man Leg with Boot",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Lizard Huntsman",
+    "head": "Lizard Man Head with Helmet",
+    "body": "Lizard Man Body with Armor",
+    "arm1": "Armor and Spear",
+    "arm2": "Armor and Spear",
+    "leg1": "Lizard Man Leg with Boot",
+    "leg2": "Lizard Man Leg with Boot",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Saboteur Lizard",
+    "head": "Lizard Man Head with Helmet",
+    "body": "Lizard Man Body with Armor",
+    "arm1": "Armor and Spear",
+    "arm2": "Armor and Bomb",
+    "leg1": "Lizard Man Leg with Boot",
+    "leg2": "Lizard Man Leg with Boot",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Disc-thrower Lizard",
+    "head": "Lizard Man Head with Helmet",
+    "body": "Lizard Man Body with Armor",
+    "arm1": "Armor and Disc",
+    "arm2": "Armor and Disc",
+    "leg1": "Lizard Man Leg with Boot",
+    "leg2": "Lizard Man Leg with Boot",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Demolition Lizardman",
+    "head": "Lizard Man Head with Helmet",
+    "body": "Lizard Man Body with Armor",
+    "arm1": "Armor and Bomb",
+    "arm2": "Armor and Bomb",
+    "leg1": "Lizard Man Leg with Boot",
+    "leg2": "Lizard Man Leg with Boot",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Winged Lizard",
+    "head": "Lizard Man Head",
+    "body": "Lizard Man Body",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Lizard Man Leg",
+    "leg2": "Lizard Man Leg",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Winged Battle Lizard",
+    "head": "Lizard Man Head with Helmet",
+    "body": "Lizard Man Body with Armor",
+    "arm1": "Harpy Wing with Steel Feathers",
+    "arm2": "Harpy Wing with Steel Feathers",
+    "leg1": "Lizard Man Leg with Boot",
+    "leg2": "Lizard Man Leg with Boot",
+    "category": "Lizard Man Recipes"
+  },
+  {
+    "name": "Mantis",
+    "head": "Mantis Head",
+    "body": "Mantis Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Uterus",
+    "head": "Mantis Head",
+    "body": "Mantis Body",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Infected Zombie",
+    "head": "Mantis Head",
+    "body": "Zombie Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Zombie Leg",
+    "leg2": "Zombie Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Infected Orc",
+    "head": "Mantis Head",
+    "body": "Orc Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Orc Leg",
+    "leg2": "Orc Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Infected Harpy",
+    "head": "Mantis Head",
+    "body": "Harpy Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Harpy Leg",
+    "leg2": "Harpy Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Infected Vampire",
+    "head": "Mantis Head",
+    "body": "Vampire Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Vampire Leg",
+    "leg2": "Vampire Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Infected Lizard",
+    "head": "Mantis Head",
+    "body": "Lizard Man Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Lizard Man Leg",
+    "leg2": "Lizard Man Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Infected Werewolf",
+    "head": "Mantis Head",
+    "body": "Werewolf Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Werewolf Leg",
+    "leg2": "Werewolf Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Infected Cyclop",
+    "head": "Mantis Head",
+    "body": "Cyclop Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Infected Jötunn",
+    "head": "Mantis Head",
+    "body": "Jotun Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Jotun Leg",
+    "leg2": "Jotun Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Insectoid",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Orc-insectoid",
+    "head": "Orc Head",
+    "body": "Orc Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Harpy Insectoid",
+    "head": "Harpy Head",
+    "body": "Harpy Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Vampire-insectoid",
+    "head": "Vampire Head",
+    "body": "Vampire Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Lizard Insectoid",
+    "head": "Lizard Man Head",
+    "body": "Lizard Man Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Werewolf-insectoid",
+    "head": "Werewolf Head",
+    "body": "Werewolf Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Giant Stick Insect",
+    "head": "Treant Head",
+    "body": "Treant Body",
+    "arm1": "Mantis Arm",
+    "arm2": "Mantis Arm",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Mantis Recipes"
+  },
+  {
+    "name": "Werewolf",
+    "head": "Werewolf Head",
+    "body": "Werewolf Body",
+    "arm1": "Werewolf Arm",
+    "arm2": "Werewolf Arm",
+    "leg1": "Werewolf Leg",
+    "leg2": "Werewolf Leg",
+    "category": "Werewolf Recipes"
+  },
+  {
+    "name": "Disarmed Werewolf",
+    "head": "Golem Head",
+    "body": "Werewolf Body",
+    "arm1": "Werewolf Arm",
+    "arm2": "Werewolf Arm",
+    "leg1": "Werewolf Leg",
+    "leg2": "Werewolf Leg",
+    "category": "Werewolf Recipes"
+  },
+  {
+    "name": "Orc in the skin of a werewolf",
+    "head": "Werewolf Head",
+    "body": "Werewolf Body",
+    "arm1": "Orc Arm (any)",
+    "arm2": "Orc Arm (any)",
+    "leg1": "Orc Leg (any)",
+    "leg2": "Orc Leg (any)",
+    "category": "Werewolf Recipes"
+  },
+  {
+    "name": "Orc Shifter",
+    "head": "Werewolf Head",
+    "body": "Orc Body (any)",
+    "arm1": "Werewolf Arm",
+    "arm2": "Werewolf Arm",
+    "leg1": "Orc Leg (any)",
+    "leg2": "Orc Leg (any)",
+    "category": "Werewolf Recipes"
+  },
+  {
+    "name": "Chimera",
+    "head": "Werewolf Head",
+    "body": "Werewolf Body",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Werewolf Leg",
+    "leg2": "Werewolf Leg",
+    "category": "Werewolf Recipes"
+  },
+  {
+    "name": "Satyr",
+    "head": "Werewolf Head",
+    "body": "Werewolf Body",
+    "arm1": "Werewolf Arm",
+    "arm2": "Werewolf Arm",
+    "leg1": "Demon Leg",
+    "leg2": "Demon Leg",
+    "category": "Werewolf Recipes"
+  },
+  {
+    "name": "Ent",
+    "head": "Treant Head",
+    "body": "Treant Body",
+    "arm1": "Treant Arm",
+    "arm2": "Treant Arm",
+    "leg1": "Treant Leg",
+    "leg2": "Treant Leg",
+    "category": "Treant Recipes"
+  },
+  {
+    "name": "Ancient Ent",
+    "head": "Treant Head",
+    "body": "Treant Body",
+    "arm1": "Treant Arm",
+    "arm2": "Treant Arm With Beehive",
+    "leg1": "Treant Leg",
+    "leg2": "Treant Leg",
+    "category": "Treant Recipes"
+  },
+  {
+    "name": "Illithid Slaver",
+    "head": "Illithid Head",
+    "body": "Illithid Body",
+    "arm1": "Slave Brain",
+    "arm2": "Slave Brain",
+    "leg1": "Illithid Leg",
+    "leg2": "Illithid Leg",
+    "category": "Illithid Recipes"
+  },
+  {
+    "name": "Illithid Indoctrinator",
+    "head": "Illithid Head",
+    "body": "Illithid Body",
+    "arm1": "Book of Nightmares",
+    "arm2": "Slave Brain",
+    "leg1": "Illithid Leg",
+    "leg2": "Illithid Leg",
+    "category": "Illithid Recipes"
+  },
+  {
+    "name": "Illithid Oppressor",
+    "head": "Illithid Head",
+    "body": "Illithid Body",
+    "arm1": "Dreadstaff",
+    "arm2": "Slave Brain",
+    "leg1": "Illithid Leg",
+    "leg2": "Illithid Leg",
+    "category": "Illithid Recipes"
+  },
+  {
+    "name": "God of Terror",
+    "head": "Illithid Head",
+    "body": "Illithid Body",
+    "arm1": "Book of Nightmares",
+    "arm2": "Dreadstaff",
+    "leg1": "Illithid Leg",
+    "leg2": "Illithid Leg",
+    "category": "Illithid Recipes"
+  },
+  {
+    "name": "Cyclops",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Cyclop Arm with Boulder",
+    "arm2": "Cyclop Arm with Uprooted Tree",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cyclop Recipes"
+  },
+  {
+    "name": "Siege Cyclop",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Cyclop Arm with Boulder",
+    "arm2": "Cyclop Arm with Boulder",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cyclop Recipes"
+  },
+  {
+    "name": "Cyclop Loogan",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Cyclop Arm with Uprooted Tree",
+    "arm2": "Cyclop Arm with Uprooted Tree",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cyclop Recipes"
+  },
+  {
+    "name": "One-eyed Monster",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cyclop Recipes"
+  },
+  {
+    "name": "Cyclop Veteran",
+    "head": "Jötunn Head",
+    "body": "Cyclop Body",
+    "arm1": "Cyclop Arm with Boulder",
+    "arm2": "Cyclop Arm with Boulder",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cyclop Recipes"
+  },
+  {
+    "name": "Cyclop Fighter",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Jötunn Arm (any)",
+    "arm2": "Cyclop Arm (any)",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cyclop Recipes"
+  },
+  {
+    "name": "Warrior Cyclop",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Jötunn Arm (any)",
+    "arm2": "Jötunn Arm (any)",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cyclop Recipes"
+  },
+  {
+    "name": "Disarmed Cyclop",
+    "head": "Golem Head",
+    "body": "Cyclop Body",
+    "arm1": "Cyclop Arm (any)",
+    "arm2": "Cyclop Arm (any)",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cyclop Recipes"
+  },
+  {
+    "name": "Cyclop Gladiator",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Golem Arm (any)",
+    "arm2": "Cyclop Arm (any)",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cyclop Recipes"
+  },
+  {
+    "name": "Cyclop Wrestler",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Golem Arm (any)",
+    "arm2": "Golem Arm (any)",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cyclop Recipes"
+  },
+  {
+    "name": "Fighter Jötunn",
+    "head": "Jötunn Head",
+    "body": "Jötunn Body",
+    "arm1": "Jötunn Arm with Double Axe",
+    "arm2": "Jötunn Arm with Ice Sword",
+    "leg1": "Jötunn Leg",
+    "leg2": "Jötunn Leg",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Shaker Jötunn",
+    "head": "Jötunn Head",
+    "body": "Jötunn Body",
+    "arm1": "Jötunn Arm with Double Axe",
+    "arm2": "Jötunn Arm with Totem",
+    "leg1": "Jötunn Leg",
+    "leg2": "Jötunn Leg",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Destroyer Jötunn",
+    "head": "Jötunn Head with Armor",
+    "body": "Jötunn Body with Armor",
+    "arm1": "Armor and Double Axe",
+    "arm2": "Armor and Ice Sword",
+    "leg1": "Jötunn Leg with Armor",
+    "leg2": "Jötunn Leg with Armor",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Crusher Jötunn",
+    "head": "Jötunn Head with Armor",
+    "body": "Jötunn Body with Armor",
+    "arm1": "Armor and Double Axe",
+    "arm2": "Armor and Totem",
+    "leg1": "Jötunn Leg with Armor",
+    "leg2": "Jötunn Leg with Armor",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Scavenger Jötunn",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Harpy Wing (any)",
+    "arm2": "Harpy Wing (any)",
+    "leg1": "Jötunn Leg (any)",
+    "leg2": "Jötunn Leg (any)",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Savage Jötunn",
+    "head": "Cyclop Head",
+    "body": "Jötunn Body (any)",
+    "arm1": "Jötunn Arm (any)",
+    "arm2": "Jötunn Arm (any)",
+    "leg1": "Jötunn Leg (any)",
+    "leg2": "Jötunn Leg (any)",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Thug Jötunn",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Cyclop Arm (any)",
+    "arm2": "Cyclop Arm (any)",
+    "leg1": "Jötunn Leg (any)",
+    "leg2": "Jötunn Leg (any)",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Jötunn Elder",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Treant Arm",
+    "arm2": "Treant Arm",
+    "leg1": "Treant Leg",
+    "leg2": "Treant Leg",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Great Jötunn",
+    "head": "Treant Head",
+    "body": "Treant Body",
+    "arm1": "Jötunn Arm (any)",
+    "arm2": "Jötunn Arm (any)",
+    "leg1": "Treant Leg",
+    "leg2": "Treant Leg",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Tamed Jötunn",
+    "head": "Golem Head",
+    "body": "Jötunn Body (any)",
+    "arm1": "Jötunn Arm (any)",
+    "arm2": "Jötunn Arm (any)",
+    "leg1": "Jötunn Leg (any)",
+    "leg2": "Jötunn Leg (any)",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Gladiator Jötunn",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Golem Arm (any)",
+    "arm2": "Jötunn Arm (any)",
+    "leg1": "Jötunn Leg (any)",
+    "leg2": "Jötunn Leg (any)",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Knight Jötunn",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Golem Arm (any)",
+    "arm2": "Golem Arm (any)",
+    "leg1": "Jötunn Leg (any)",
+    "leg2": "Jötunn Leg (any)",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Jötunn Wrestler",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Golem Arm (any)",
+    "arm2": "Golem Arm (any)",
+    "leg1": "Jötunn Leg (any)",
+    "leg2": "Jötunn Leg (any)",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Asgardian",
+    "head": "Angel Head",
+    "body": "Jötunn Body (any)",
+    "arm1": "Jötunn Arm (any)",
+    "arm2": "Jötunn Arm (any)",
+    "leg1": "Jötunn Leg (any)",
+    "leg2": "Jötunn Leg (any)",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Colossus Jötunn",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Jötunn Arm (any)",
+    "arm2": "Jötunn Arm (any)",
+    "leg1": "Elemental Leg",
+    "leg2": "Elemental Leg",
+    "category": "Jötunn Recipes"
+  },
+  {
+    "name": "Golem Warrior",
+    "head": "Steel Golem Head",
+    "body": "Steel Golem Body",
+    "arm1": "Steel Golem Arm with Steam Gun",
+    "arm2": "Steel Golem Arm with Steam Saw",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Golem Fighter",
+    "head": "Steel Golem Head",
+    "body": "Steel Golem Body",
+    "arm1": "Steel Golem Arm with Steam Gun",
+    "arm2": "Steel Golem Arm with Steam Gun",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Golem Reaper",
+    "head": "Steel Golem Head",
+    "body": "Steel Golem Body",
+    "arm1": "Steel Golem Arm with Steam Saw",
+    "arm2": "Steel Golem Arm with Steam Saw",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Prototype 1",
+    "head": "Steel Golem Head",
+    "body": "Mechanoid Body (any)",
+    "arm1": "Steel Golem Arm (any)",
+    "arm2": "Steel Golem Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Prototype 2",
+    "head": "Steel Golem Head",
+    "body": "Steel Golem Body",
+    "arm1": "Mechanoid Arm with Machine Gun",
+    "arm2": "Steel Golem Arm (any)",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Prototype 3",
+    "head": "Steel Golem Head",
+    "body": "Steel Golem Body",
+    "arm1": "Mechanoid Arm with Dual Lightsaber",
+    "arm2": "Steel Golem Arm (any)",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Prototype 4",
+    "head": "Mechanoid Head with Laser",
+    "body": "Steel Golem Body",
+    "arm1": "Steel Golem Arm (any)",
+    "arm2": "Steel Golem Arm (any)",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Prototype 5",
+    "head": "Steel Golem Head",
+    "body": "Mechanoid Body with Rocket Launcher",
+    "arm1": "Steel Golem Arm (any)",
+    "arm2": "Steel Golem Arm (any)",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Prototype 6",
+    "head": "Steel Golem Head",
+    "body": "Steel Golem Body",
+    "arm1": "Mechanoid Arm with Grenade Launcher",
+    "arm2": "Steel Golem Arm (any)",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Prototype 7",
+    "head": "Mechanoid Head",
+    "body": "Steel Golem Body",
+    "arm1": "Steel Golem Arm (any)",
+    "arm2": "Steel Golem Arm (any)",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Prototype 8",
+    "head": "Mechanoid Head",
+    "body": "Mechanoid Body",
+    "arm1": "Steel Golem Arm (any)",
+    "arm2": "Steel Golem Arm (any)",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Prototype 9",
+    "head": "Mechanoid Head with Flamethrower",
+    "body": "Steel Golem Body",
+    "arm1": "Steel Golem Arm (any)",
+    "arm2": "Steel Golem Arm (any)",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Failed Prototype",
+    "head": "Elemental Head",
+    "body": "Steel Golem Body",
+    "arm1": "Elemental Arm",
+    "arm2": "Elemental Arm",
+    "leg1": "Steel Golem Leg",
+    "leg2": "Steel Golem Leg",
+    "category": "Steel Golem Recipes"
+  },
+  {
+    "name": "Elemental",
+    "head": "Elemental Head",
+    "body": "Elemental Body",
+    "arm1": "Elemental Arm",
+    "arm2": "Elemental Arm",
+    "leg1": "Elemental Leg",
+    "leg2": "Elemental Leg",
+    "category": "Elemental Recipes"
+  },
+  {
+    "name": "Ifrit",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Elemental Arm",
+    "arm2": "Elemental Arm",
+    "leg1": "Elemental Leg",
+    "leg2": "Elemental Leg",
+    "category": "Elemental Recipes"
+  },
+  {
+    "name": "Fire Ent",
+    "head": "Elemental Head",
+    "body": "Elemental Body",
+    "arm1": "Treant Arm (any)",
+    "arm2": "Treant Arm (any)",
+    "leg1": "Treant Leg",
+    "leg2": "Treant Leg",
+    "category": "Elemental Recipes"
+  },
+  {
+    "name": "Spirit of Fire",
+    "head": "Elemental Head",
+    "body": "Elemental Body",
+    "arm1": "Angel Arm (any)",
+    "arm2": "Angel Arm (any)",
+    "leg1": "Angel Leg",
+    "leg2": "Angel Leg",
+    "category": "Elemental Recipes"
+  },
+  {
+    "name": "Salamander",
+    "head": "Elemental Head",
+    "body": "Elemental Body",
+    "arm1": "Draconid Wing",
+    "arm2": "Draconid Wing",
+    "leg1": "Draconid Leg",
+    "leg2": "Draconid Leg",
+    "category": "Elemental Recipes"
+  },
+  {
+    "name": "Demon Torturer",
+    "head": "Demon Head",
+    "body": "Demon Body",
+    "arm1": "Demon Arm with Whip",
+    "arm2": "Demon Arm with Kusarigama",
+    "leg1": "Demon Leg",
+    "leg2": "Demon Leg",
+    "category": "Demon Recipes"
+  },
+  {
+    "name": "Demon Invader",
+    "head": "Demon Head",
+    "body": "Demon Body",
+    "arm1": "Demon Arm with Whip",
+    "arm2": "Demon Arm with Gravitation Orb",
+    "leg1": "Demon Leg",
+    "leg2": "Demon Leg",
+    "category": "Demon Recipes"
+  },
+  {
+    "name": "Demon Incubus",
+    "head": "Demon Head",
+    "body": "Demon Body",
+    "arm1": "Harpy Wing (any)",
+    "arm2": "Harpy Wing (any)",
+    "leg1": "Demon Leg",
+    "leg2": "Demon Leg",
+    "category": "Demon Recipes"
+  },
+  {
+    "name": "Demon Succubus",
+    "head": "Angel Head",
+    "body": "Demon Body",
+    "arm1": "Demon Arm (any)",
+    "arm2": "Demon Arm (any)",
+    "leg1": "Harpy Leg (any)",
+    "leg2": "Harpy Leg (any)",
+    "category": "Demon Recipes"
+  },
+  {
+    "name": "Hellfire Demon",
+    "head": "Demon Head",
+    "body": "Demon Body",
+    "arm1": "Elemental Arm",
+    "arm2": "Elemental Arm",
+    "leg1": "Demon Leg",
+    "leg2": "Demon Leg",
+    "category": "Demon Recipes"
+  },
+  {
+    "name": "Cyberdemon",
+    "head": "Demon Head",
+    "body": "Demon Body",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Demon Leg",
+    "leg2": "Demon Leg",
+    "category": "Demon Recipes"
+  },
+  {
+    "name": "Avenging Angel",
+    "head": "Angel Head",
+    "body": "Angel Body",
+    "arm1": "Angel Arm with Flaming Sword",
+    "arm2": "Angel Arm with Glaive",
+    "leg1": "Angel Leg",
+    "leg2": "Angel Leg",
+    "category": "Angel Recipes"
+  },
+  {
+    "name": "Angel Punisher",
+    "head": "Angel Head",
+    "body": "Angel Body",
+    "arm1": "Angel Arm with Flaming Sword",
+    "arm2": "Angel Arm with Flaming Sword",
+    "leg1": "Angel Leg",
+    "leg2": "Angel Leg",
+    "category": "Angel Recipes"
+  },
+  {
+    "name": "Seraphim",
+    "head": "Angel Head",
+    "body": "Angel Body",
+    "arm1": "Draconid Wing",
+    "arm2": "Draconid Wing",
+    "leg1": "Angel Leg",
+    "leg2": "Angel Leg",
+    "category": "Angel Recipes"
+  },
+  {
+    "name": "Valkyrie",
+    "head": "Harpy Head with Helmet",
+    "body": "Angel Body",
+    "arm1": "Harpy Wing with Steel Feathers",
+    "arm2": "Harpy Wing with Steel Feathers",
+    "leg1": "Angel Leg",
+    "leg2": "Angel Leg",
+    "category": "Angel Recipes"
+  },
+  {
+    "name": "Draconid",
+    "head": "Draconid Head",
+    "body": "Draconid Body",
+    "arm1": "Draconid Wing",
+    "arm2": "Draconid Wing",
+    "leg1": "Draconid Leg",
+    "leg2": "Draconid Leg",
+    "category": "Draconid Recipes"
+  },
+  {
+    "name": "Wyvern",
+    "head": "Draconid Head",
+    "body": "Draconid Body",
+    "arm1": "Harpy Wing",
+    "arm2": "Harpy Wing",
+    "leg1": "Harpy Leg",
+    "leg2": "Harpy Leg",
+    "category": "Draconid Recipes"
+  },
+  {
+    "name": "Battle Wyvern",
+    "head": "Draconid Head",
+    "body": "Draconid Body",
+    "arm1": "Harpy Wing with Steel Feathers",
+    "arm2": "Harpy Wing with Steel Feathers",
+    "leg1": "Harpy Leg with Steel Claws",
+    "leg2": "Harpy Leg with Steel Claws",
+    "category": "Draconid Recipes"
+  },
+  {
+    "name": "Lizard King",
+    "head": "Draconid Head",
+    "body": "Lizard Man Body (any)",
+    "arm1": "Lizard Man Arm (any)",
+    "arm2": "Lizard Man Arm (any)",
+    "leg1": "Lizard Man Leg (any)",
+    "leg2": "Lizard Man Leg (any)",
+    "category": "Draconid Recipes"
+  },
+  {
+    "name": "Lizard God",
+    "head": "Draconid Head",
+    "body": "Draconid Body",
+    "arm1": "Lizard Man Arm (any)",
+    "arm2": "Lizard Man Arm (any)",
+    "leg1": "Draconid Leg",
+    "leg2": "Draconid Leg",
+    "category": "Draconid Recipes"
+  },
+  {
+    "name": "Lizard Dragonwing",
+    "head": "Lizard Man Head (any)",
+    "body": "Lizard Man Body (any)",
+    "arm1": "Draconid Wing",
+    "arm2": "Draconid Wing",
+    "leg1": "Lizard Man Leg (any)",
+    "leg2": "Lizard Man Leg (any)",
+    "category": "Draconid Recipes"
+  },
+  {
+    "name": "Mechanoid Stormtrooper",
+    "head": "Mechanoid Head",
+    "body": "Mechanoid Body",
+    "arm1": "Mechanoid Arm with Dual Lightsaber",
+    "arm2": "Mechanoid Arm with Dual Lightsaber",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Mechanoid Recipes"
+  },
+  {
+    "name": "Demolition Mechanoid",
+    "head": "Mechanoid Head (any)",
+    "body": "Mechanoid Body with Rocket Launcher",
+    "arm1": "Mechanoid Arm with Grenade Launcher",
+    "arm2": "Mechanoid Arm with Grenade Launcher",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Mechanoid Recipes"
+  },
+  {
+    "name": "Terminator",
+    "head": "Mechanoid Head with Laser",
+    "body": "Mechanoid Body (any)",
+    "arm1": "Mechanoid Arm with Machine Gun",
+    "arm2": "Mechanoid Arm with Grenade Launcher",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Mechanoid Recipes"
+  },
+  {
+    "name": "Burner",
+    "head": "Mechanoid Head with Flamethrower",
+    "body": "Mechanoid Body (any)",
+    "arm1": "Mechanoid Arm with Flamethrower",
+    "arm2": "Mechanoid Arm with Flamethrower",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Mechanoid Recipes"
+  },
+  {
+    "name": "Drone",
+    "head": "Mechanoid Head (any)",
+    "body": "Mechanoid Body (any)",
+    "arm1": "Harpy Wing with Steel Feathers",
+    "arm2": "Harpy Wing with Steel Feathers",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Mechanoid Recipes"
+  },
+  {
+    "name": "Cyborg",
+    "head": "Zombie Head (any)",
+    "body": "Zombie Body (any)",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Cyborg"
+  },
+  {
+    "name": "Orc Cyborg",
+    "head": "Orc Head (any)",
+    "body": "Orc Body (any)",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Cyborg"
+  },
+  {
+    "name": "Cyborg Harpy",
+    "head": "Harpy Head (any)",
+    "body": "Harpy Body (any)",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Cyborg"
+  },
+  {
+    "name": "Cyborg Vampire",
+    "head": "Vampire Head",
+    "body": "Vampire Body",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Cyborg"
+  },
+  {
+    "name": "Cyborg Lizard",
+    "head": "Lizard Man Head (any)",
+    "body": "Lizard Man Body (any)",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Cyborg"
+  },
+  {
+    "name": "Cyborg Werewolf",
+    "head": "Werewolf Head",
+    "body": "Werewolf Body",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Cyborg"
+  },
+  {
+    "name": "Cyborg Jötunn",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Cyborg"
+  },
+  {
+    "name": "Cyborg Angel",
+    "head": "Angel Head",
+    "body": "Angel Body",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Cyborg"
+  },
+  {
+    "name": "Cyborg Draconid",
+    "head": "Draconid Head",
+    "body": "Draconid Body",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Mechanoid Leg",
+    "category": "Cyborg"
+  },
+  {
+    "name": "Zombie Cripple",
+    "head": "Zombie Head (any)",
+    "body": "Zombie Body (any)",
+    "arm1": "Zombie Arm (any)",
+    "arm2": "Zombie Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Zombie Leg (any)",
+    "category": "Cripple"
+  },
+  {
+    "name": "Orc Cripple",
+    "head": "Orc Head (any)",
+    "body": "Orc Body (any)",
+    "arm1": "Orc Arm (any)",
+    "arm2": "Orc Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Orc Leg (any)",
+    "category": "Cripple"
+  },
+  {
+    "name": "Vampire Cripple",
+    "head": "Vampire Head",
+    "body": "Vampire Body",
+    "arm1": "Vampire Arm",
+    "arm2": "Vampire Arm",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Vampire Leg",
+    "category": "Cripple"
+  },
+  {
+    "name": "Cripple Lizard",
+    "head": "Lizard Man Head (any)",
+    "body": "Lizard Man Body (any)",
+    "arm1": "Lizard Man Arm (any)",
+    "arm2": "Lizard Man Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Lizard Man Leg (any)",
+    "category": "Cripple"
+  },
+  {
+    "name": "Cyclop Cripple",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Cyclop Arm (any)",
+    "arm2": "Cyclop Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Cripple"
+  },
+  {
+    "name": "Crippled Jötunn",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Jötunn Arm (any)",
+    "arm2": "Jötunn Arm (any)",
+    "leg1": "Mechanoid Leg",
+    "leg2": "Jötunn Leg (any)",
+    "category": "Cripple"
+  },
+  {
+    "name": "Half-Rotten Dead",
+    "head": "Skeleton Head (any)",
+    "body": "Zombie Body (any)",
+    "arm1": "Skeleton Arm (any)",
+    "arm2": "Zombie Arm (any)",
+    "leg1": "Skeleton Leg (any)",
+    "leg2": "Zombie Leg (any)",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Half-Rotten Orc",
+    "head": "Orc Skeleton Head (any)",
+    "body": "Orc Body (any)",
+    "arm1": "Orc Skeleton Arm (any)",
+    "arm2": "Orc Arm (any)",
+    "leg1": "Orc Skeleton Leg (any)",
+    "leg2": "Orc Leg (any)",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Homunculus",
+    "head": "Zombie Head",
+    "body": "Zombie Body",
+    "arm1": "Orc Arm",
+    "arm2": "Harpy Wing",
+    "leg1": "Mantis Leg",
+    "leg2": "Lizard Man Leg",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Pest",
+    "head": "Mantis Head",
+    "body": "Mantis Body",
+    "arm1": "Draconid Wing",
+    "arm2": "Draconid Wing",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Bantling Shorty Skeleton",
+    "head": "Orc Skeleton Head (any)",
+    "body": "Orc Skeleton Body (any)",
+    "arm1": "Orc Skeleton Arm (any)",
+    "arm2": "Orc Skeleton Arm (any)",
+    "leg1": "x2 Zombie Leg (any) or 2x Skeleton Leg(any?)",
+    "leg2": "x2 Zombie Leg (any) or 2x Skeleton Leg(any?)",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Bantling Shooter Skeleton",
+    "head": "Orc Skeleton Head",
+    "body": "Orc Skeleton Body",
+    "arm1": "Zombie Arm with Crossbow",
+    "arm2": "Zombie Arm with Crossbow",
+    "leg1": "Orc Skeleton Leg",
+    "leg2": "Orc Skeleton Leg",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Bantling Ranger Skeleton",
+    "head": "Orc Skeleton Head with Helmet",
+    "body": "Orc Skeleton Body with Armor",
+    "arm1": "Zombie Arm with Armor and Crossbow",
+    "arm2": "Zombie Arm with Armor and Crossbow",
+    "leg1": "Orc Skeleton Leg with Boot",
+    "leg2": "Orc Skeleton Leg with Boot",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Bantling Expat Skeleton",
+    "head": "Orc Skeleton Head (any)",
+    "body": "Orc Skeleton Body (any)",
+    "arm1": "Skeleton Arm with Magic Wand",
+    "arm2": "Skeleton Arm with Magic Wand",
+    "leg1": "Orc Skeleton Leg (any)",
+    "leg2": "Orc Skeleton Leg (any)",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Bantling Mage Skeleton",
+    "head": "Orc Skeleton Head (any)",
+    "body": "Orc Skeleton Body (any)",
+    "arm1": "Skeleton Arm with Book of Ice",
+    "arm2": "Zombie Arm with Book of Lightning",
+    "leg1": "Orc Skeleton Leg (any)",
+    "leg2": "Orc Skeleton Leg (any)",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Skeleton Half-Breed",
+    "head": "Skeleton Head (any)",
+    "body": "Skeleton Body (any)",
+    "arm1": "Skeleton Arm (any)",
+    "arm2": "Orc Skeleton Arm (any)",
+    "leg1": "Skeleton Leg (any)",
+    "leg2": "Orc Skeleton Leg (any)",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Zombie Bantling",
+    "head": "Zombie Head (any)",
+    "body": "Zombie Body (any)",
+    "arm1": "Zombie Arm (any)",
+    "arm2": "Orc Arm (any)",
+    "leg1": "Zombie Leg (any)",
+    "leg2": "Orc Leg (any)",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Orc Half-breed",
+    "head": "Orc Head (any)",
+    "body": "Orc Body (any)",
+    "arm1": "Orc Arm (any)",
+    "arm2": "Lizard Man Arm (any)",
+    "leg1": "Orc Leg (any)",
+    "leg2": "Lizard Man Leg (any)",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Harpy Half-breed",
+    "head": "Harpy Head (any)",
+    "body": "Harpy Body (any)",
+    "arm1": "Harpy Wing (any)",
+    "arm2": "Draconid Wing",
+    "leg1": "Harpy Leg (any)",
+    "leg2": "Draconid Leg",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Lizard Half-breed",
+    "head": "Lizard Head (any)",
+    "body": "Lizard Body (any)",
+    "arm1": "Orc Arm (any)",
+    "arm2": "Lizard Man Arm (any)",
+    "leg1": "Orc Leg (any)",
+    "leg2": "Lizard Man Leg (any)",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Vampire Half-breed",
+    "head": "Vampire Head",
+    "body": "Vampire Body",
+    "arm1": "Vampire Arm",
+    "arm2": "Werewolf Arm",
+    "leg1": "Vampire Leg",
+    "leg2": "Werewolf Leg",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Werewolf Halfbreed",
+    "head": "Werewolf Head",
+    "body": "Werewolf Body",
+    "arm1": "Werewolf Arm",
+    "arm2": "Vampire Arm",
+    "leg1": "Werewolf Leg",
+    "leg2": "Vampire Leg",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Halfblood Jötunn",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Jötunn Arm (any)",
+    "arm2": "Cyclop Arm (any)",
+    "leg1": "Jötunn Leg (any)",
+    "leg2": "Cyclop Leg",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Cyclop Half-breed",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Cyclop Arm (any)",
+    "arm2": "Jötunn Arm (any)",
+    "leg1": "Cyclop Leg",
+    "leg2": "Jötunn Leg (any)",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Demon Halfbreed",
+    "head": "Demon Head",
+    "body": "Demon Body",
+    "arm1": "Demon Arm (any)",
+    "arm2": "Angel Arm (any)",
+    "leg1": "Demon Leg",
+    "leg2": "Angel Leg",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Angel Halfbreed",
+    "head": "Angel Head",
+    "body": "Angel Body",
+    "arm1": "Angel Arm (any)",
+    "arm2": "Demon Arm (any)",
+    "leg1": "Angel Leg",
+    "leg2": "Demon Leg",
+    "category": "Mixed Recipes"
+  },
+  {
+    "name": "Zombie Arachnid",
+    "head": "Zombie Head (any)",
+    "body": "Zombie Body (any)",
+    "arm1": "Zombie Arm (any)",
+    "arm2": "Zombie Arm (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Orc Arachnid",
+    "head": "Orc Head (any)",
+    "body": "Orc Body (any)",
+    "arm1": "Orc Arm (any)",
+    "arm2": "Orc Arm (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Harpy Arachnid",
+    "head": "Harpy Head (any)",
+    "body": "Harpy Body (any)",
+    "arm1": "Harpy Wing (any)",
+    "arm2": "Harpy Wing (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Vampire Arachnid",
+    "head": "Vampire Head",
+    "body": "Vampire Body",
+    "arm1": "Vampire Arm",
+    "arm2": "Vampire Arm",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Werewolf Arachnid",
+    "head": "Werewolf Head",
+    "body": "Werewolf Body",
+    "arm1": "Werewolf Arm",
+    "arm2": "Werewolf Arm",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Lizard Arachnid",
+    "head": "Lizard Man Head (any)",
+    "body": "Lizard Man Body (any)",
+    "arm1": "Lizard Man Arm (any)",
+    "arm2": "Lizard Man Arm (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Cyclop Arachnid",
+    "head": "Cyclop Head",
+    "body": "Cyclop Body",
+    "arm1": "Cyclop Arm (any)",
+    "arm2": "Cyclop Arm (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Jotun Arachnid",
+    "head": "Jötunn Head (any)",
+    "body": "Jötunn Body (any)",
+    "arm1": "Jötunn Arm (any)",
+    "arm2": "Jötunn Arm (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Demon Arachnid",
+    "head": "Demon Head",
+    "body": "Demon Body",
+    "arm1": "Demon Arm (any)",
+    "arm2": "Demon Arm (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Angel Arachnid",
+    "head": "Angel Head",
+    "body": "Angel Body",
+    "arm1": "Angel Arm (any)",
+    "arm2": "Angel Arm (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Robot Spider",
+    "head": "Mechanoid Head (any)",
+    "body": "Mechanoid Body (any)",
+    "arm1": "Mechanoid Arm (any)",
+    "arm2": "Mechanoid Arm (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Arachnid"
+  },
+  {
+    "name": "Enslaved Zombie",
+    "head": "Illithid Head",
+    "body": "Zombie Body (any)",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Zombie Leg (any)",
+    "leg2": "Zombie Leg (any)",
+    "category": "Enslaved"
+  },
+  {
+    "name": "Enslaved Orc",
+    "head": "Illithid Head",
+    "body": "Orc Body (any)",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Orc Leg (any)",
+    "leg2": "Orc Leg (any)",
+    "category": "Enslaved"
+  },
+  {
+    "name": "Enslaved Harpy",
+    "head": "Illithid Head",
+    "body": "Harpy Body (any)",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Harpy Leg (any)",
+    "leg2": "Harpy Leg (any)",
+    "category": "Enslaved"
+  },
+  {
+    "name": "Enslaved Vampire",
+    "head": "Illithid Head",
+    "body": "Vampire Body",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Vampire Leg",
+    "leg2": "Vampire Leg",
+    "category": "Enslaved"
+  },
+  {
+    "name": "Enslaved Werewolf",
+    "head": "Illithid Head",
+    "body": "Zombie Body (any)",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Enslaved"
+  },
+  {
+    "name": "Enslaved Lizard",
+    "head": "Illithid Head",
+    "body": "Lizard Body (any)",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Lizard Leg (any)",
+    "leg2": "Lizard Leg (any)",
+    "category": "Enslaved"
+  },
+  {
+    "name": "Enslaved Mantis",
+    "head": "Illithid Head",
+    "body": "Mantis Body",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Mantis Leg",
+    "leg2": "Mantis Leg",
+    "category": "Enslaved"
+  },
+  {
+    "name": "Enslaved Cyclop",
+    "head": "Illithid Head",
+    "body": "Cyclop Body",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Cyclop Leg",
+    "leg2": "Cyclop Leg",
+    "category": "Enslaved"
+  },
+  {
+    "name": "Enslaved Jotun",
+    "head": "Illithid Head",
+    "body": "Jotun Body (any)",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Jotun Leg (any)",
+    "leg2": "Jotun Leg (any)",
+    "category": "Enslaved"
+  },
+  {
+    "name": "Enslaved Demon",
+    "head": "Illithid Head",
+    "body": "Demon Body",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Demon Leg",
+    "leg2": "Demon Leg",
+    "category": "Enslaved"
+  },
+  {
+    "name": "Enslaved Angel",
+    "head": "Illithid Head",
+    "body": "Angel Body",
+    "arm1": "Illithid Arm (any)",
+    "arm2": "Illithid Arm (any)",
+    "leg1": "Angel Leg",
+    "leg2": "Angel Leg",
+    "category": "Enslaved"
+  }
+]

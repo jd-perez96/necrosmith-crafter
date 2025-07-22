@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Necrosmith Crafter</title>
+
+    <!-- <script src="recipes.json"></script> -->
+    <script src="app.js"></script>
+</head>
+<body>
+    <h1>Necrosmith Crafter</h1>
+
+    <p>Recipes: <span id="crafted-recipes"></span>/<span id="total-recipes"></span></p>
+
+    <input type="text" name="name-filter" id="name-filter"
+        placeholder="Filter by name (i.e. Skeleton stormtrooper)">
+
+    <label for="category-filter">Filter by category:</label>
+    <select id="category-filter" name="category-filter">
+        <option value="">All categories</option>
+    </select>
+
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th>Recipe name</th>
+                <th>Recipe category</th>
+                <th>Head</th>
+                <th>Body</th>
+                <th>Arm 1</th>
+                <th>Arm 2</th>
+                <th>Leg 1</th>
+                <th>Leg 2</th>
+            </tr>
+        </thead>
+
+        <tbody id="recipe-list"></tbody>
+    </table>
+
+    <template id="recipe-template">
+        <tr class="row">
+            <td><input type="checkbox" class="check"></td>
+            <td class="name"></td>
+            <td class="category"></td>
+            <td class="head"></td>
+            <td class="body"></td>
+            <td class="arm1"></td>
+            <td class="arm2"></td>
+            <td class="leg1"></td>
+            <td class="leg2"></td>
+        </tr>
+    </template>
+</body>
+</html>
