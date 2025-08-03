@@ -6,50 +6,100 @@
     <title>Necrosmith Crafter</title>
 
     <!-- <script src="recipes.json"></script> -->
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+    <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
+    <style>
+        html, body, pre, code, kbd, samp {
+            font-family: "Press Start 2P", monospace;
+        }
+
+        .nes-table.is-dark::before {
+            display: none !important;
+        }
+
+        .nes-table.is-centered {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
     <script src="app.js"></script>
 </head>
-<body>
+<body class="nes-container is-dark">
     <h1>Necrosmith Crafter</h1>
 
-    <p>Recipes: <span id="crafted-recipes"></span>/<span id="total-recipes"></span></p>
+    <!-- RECIPE PROGRESS -->
+    <p class="">Recipes: <span id="crafted-recipes"></span>/<span id="total-recipes"></span></p>
+    <progress id="crafted-recipes-progress" class="nes-progress is-primary"></progress>
 
-    <input type="text" name="name-filter" id="name-filter"
+    <!-- TEXT FILTER -->
+    <input type="text" name="name-filter" id="name-filter" class="nes-input" 
         placeholder="Filter by name (i.e. Skeleton stormtrooper)">
 
-    <label for="category-filter">Filter by category:</label>
-    <select id="category-filter" name="category-filter">
-        <option value="">All categories</option>
-    </select>
+    <!-- CRAFTED FILTER -->
+    <div style="padding: 1rem 0;">
+        <label for="crafted-filter">Show crafted recipes:</label>
 
-    <table>
-        <thead>
-            <tr>
-                <th></th>
-                <th>Recipe name</th>
-                <th>Recipe category</th>
-                <th>Head</th>
-                <th>Body</th>
-                <th>Arm 1</th>
-                <th>Arm 2</th>
-                <th>Leg 1</th>
-                <th>Leg 2</th>
-            </tr>
-        </thead>
+        <label>
+            <input id="show-crafted-recipes" type="radio" class="nes-radio is-dark" name="recipe-crafter" checked />
+            <span>Yes</span>
+        </label>
 
-        <tbody id="recipe-list"></tbody>
-    </table>
+        <label>
+            <input id="hide-crafted-recipes" type="radio" class="nes-radio is-dark" name="recipe-crafter" />
+            <span>No</span>
+        </label>
+    </div>
 
+    <!-- CATEGORIES -->
+    <!-- <label for="category-filter">Filter by category:</label>
+    <div class="nes-select">
+        <select id="category-filter" name="category-filter">
+            <option value="">All categories</option>
+        </select>
+    </div> -->
+
+    <!-- RECIPE TABLE -->
+    <div class="nes-table-responsive">
+        <table class="nes-table is-bordered is-centered is-dark">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Recipe name</th>
+                    <!-- <th>Recipe category</th>
+                    <th>Head</th>
+                    <th>Body</th>
+                    <th>Arm 1</th>
+                    <th>Arm 2</th>
+                    <th>Leg 1</th>
+                    <th>Leg 2</th> -->
+                </tr>
+            </thead>
+
+            <tbody id="recipe-list"></tbody>
+        </table>
+    </div>
+
+    <div>
+        <button id="remove-recipes" class="nes-btn is-error">Remove crafted recipes</button>
+    </div>
+
+    <!-- TABLE ENTRY TEMPLATE -->
     <template id="recipe-template">
         <tr class="row">
-            <td><input type="checkbox" class="check"></td>
+            <td>
+                <label>
+                    <input type="checkbox" class="nes-checkbox is-dark">
+                    <span></span>
+                </label>
+            </td>
             <td class="name"></td>
-            <td class="category"></td>
+            <!-- <td class="category"></td>
             <td class="head"></td>
             <td class="body"></td>
             <td class="arm1"></td>
             <td class="arm2"></td>
             <td class="leg1"></td>
-            <td class="leg2"></td>
+            <td class="leg2"></td> -->
         </tr>
     </template>
 </body>
